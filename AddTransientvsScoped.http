@@ -1,0 +1,6 @@
+@AddTransientvsScoped_HostAddress = http://localhost:5226
+
+GET {{AddTransientvsScoped_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
